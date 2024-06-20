@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend&family=Tektur:wght@600&display=swap');
+
+
+audio
+{
+margin-top: 3%;
+}
+
+
+.container-text
+{
+text-align: justify;
+font-family: "Lexend", Arial, Helvetica, sans-serif;
+margin-top: 3%;
+background-color: rgba(255, 255, 255, 0.8);
+border-radius: 7px;
+padding: 3%;
+height: auto;
+}
+.school
+{
+    text-align: center;
+}
+.img-profile
+{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius: 7px;
+}
+
+.h2-profile
+{
+    margin-top: 3%;
+}
+
+.img-p{
+    margin-top: 9%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.profile
+{
+    margin-bottom: 7%;
+}

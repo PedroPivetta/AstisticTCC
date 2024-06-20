@@ -1,0 +1,1169 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Final.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Final.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Audio\\Brincadeiras.mp3",
+      "PackagePath": "staticwebassets\\Audio\\Brincadeiras.mp3"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Audio\\Educativo.mp3",
+      "PackagePath": "staticwebassets\\Audio\\Educativo.mp3"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Audio\\Pais.mp3",
+      "PackagePath": "staticwebassets\\Audio\\Pais.mp3"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\appmanifest.json",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\appmanifest.json"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\c2runtime.js",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\c2runtime.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\data.js",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\generator_config.txt",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\generator_config.txt"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\icon-114.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\icon-114.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\icon-128.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\icon-128.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\icon-16.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\icon-16.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\icon-256.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\icon-256.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\icon-32.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\icon-32.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\gamemanager-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\gamemanager-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sprite2-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sprite2-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sprite4-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sprite4-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sprite5-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sprite5-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sprite6-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sprite6-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sprite7-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sprite7-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptarrow-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptarrow-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptbackarrow-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptbackarrow-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptbackarrow-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptbackarrow-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptbackarrow-sheet2.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptbackarrow-sheet2.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptbackgroundbranco-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptbackgroundbranco-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptbackgroundopcoes-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptbackgroundopcoes-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptbgmenu-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptbgmenu-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptbgmenu-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptbgmenu-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptbgmenu-sheet2.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptbgmenu-sheet2.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptbgmenu-sheet3.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptbgmenu-sheet3.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptbgmenu-sheet4.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptbgmenu-sheet4.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptbgmenu-sheet5.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptbgmenu-sheet5.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptbgnivel1-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptbgnivel1-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptbgnivel2-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptbgnivel2-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptbgnivel3-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptbgnivel3-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptbgwin-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptbgwin-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptinfo-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptinfo-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptinfo-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptinfo-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptlinha-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptlinha-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptmarcador-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptmarcador-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptnivel1-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptnivel1-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptnivel1-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptnivel1-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptnivel1-sheet2.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptnivel1-sheet2.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptnivel1-sheet3.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptnivel1-sheet3.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptnivel1-sheet4.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptnivel1-sheet4.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptnivel1-sheet5.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptnivel1-sheet5.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptnivel1-sheet6.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptnivel1-sheet6.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptnivel2-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptnivel2-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptnivel2-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptnivel2-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptnivel2-sheet2.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptnivel2-sheet2.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptnivel2-sheet3.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptnivel2-sheet3.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptnivel2-sheet4.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptnivel2-sheet4.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptnivel2-sheet5.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptnivel2-sheet5.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptnivel3-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptnivel3-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptnivel3-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptnivel3-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptnivel3-sheet2.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptnivel3-sheet2.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptnivel3-sheet3.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptnivel3-sheet3.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptnivel3-sheet4.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptnivel3-sheet4.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptnivel3-sheet5.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptnivel3-sheet5.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\images\\sptseta-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\images\\sptseta-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\index.html",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\jquery-2.1.1.min.js",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\jquery-2.1.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\loading-logo.png",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\loading-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\offline.js",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\offline.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\offlineClient.js",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\offlineClient.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\stylesheet.css",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\stylesheet.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\sw.js",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\sw.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\typo_square_light_demo-demo.html",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\typo_square_light_demo-demo.html"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\typo_square_light_demo-webfont.woff",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\typo_square_light_demo-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\CaçaPalavras\\typo_square_light_demo-webfont.woff2",
+      "PackagePath": "staticwebassets\\Jogos\\CaçaPalavras\\typo_square_light_demo-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\appmanifest.json",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\appmanifest.json"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\c2runtime.js",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\c2runtime.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\data.js",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\icon-114.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\icon-114.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\icon-128.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\icon-128.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\icon-16.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\icon-16.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\icon-256.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\icon-256.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\icon-32.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\icon-32.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\circulo-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\circulo-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\circulo-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\circulo-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\circulocolorido-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\circulocolorido-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\circulocolorido-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\circulocolorido-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\hexagono-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\hexagono-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\hexagono-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\hexagono-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\hexcolorido-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\hexcolorido-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\hexcolorido-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\hexcolorido-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\pentagono-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\pentagono-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\pentagono-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\pentagono-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\pentcolorido-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\pentcolorido-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\pentcolorido-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\pentcolorido-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\quadrado-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\quadrado-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\quadradocolorido-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\quadradocolorido-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\scrollmanager-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\scrollmanager-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sprite-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sprite-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sprite11-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sprite11-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sprite11-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sprite11-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sprite2-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sprite2-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sprite3-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sprite3-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sprite4-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sprite4-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sprite5-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sprite5-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sprite9-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sprite9-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sprite9-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sprite9-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sprite9-sheet2.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sprite9-sheet2.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sprite9-sheet3.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sprite9-sheet3.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sprite9-sheet4.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sprite9-sheet4.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sprite9-sheet5.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sprite9-sheet5.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sprite9-sheet6.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sprite9-sheet6.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sprite9-sheet7.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sprite9-sheet7.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sprite9-sheet8.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sprite9-sheet8.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sptbackarrow-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sptbackarrow-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sptbackarrow-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sptbackarrow-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sptbackarrow-sheet2.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sptbackarrow-sheet2.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sptbackarrow-sheet3.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sptbackarrow-sheet3.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sptjogopadrao-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sptjogopadrao-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\sptjogorandom-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\sptjogorandom-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\triangulo-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\triangulo-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\triangulo-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\triangulo-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\triangulocolorido-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\triangulocolorido-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\images\\triangulocolorido-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\images\\triangulocolorido-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\index.html",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\jquery-2.1.1.min.js",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\jquery-2.1.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\loading-logo.png",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\loading-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\media\\musicabackground.ogg",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\media\\musicabackground.ogg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\offline.js",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\offline.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\offlineClient.js",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\offlineClient.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\stylesheet.css",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\stylesheet.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\sw.js",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\sw.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\typo_square_light_demo-demo.html",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\typo_square_light_demo-demo.html"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\typo_square_light_demo-webfont.woff",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\typo_square_light_demo-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\EncaixaPecas\\typo_square_light_demo-webfont.woff2",
+      "PackagePath": "staticwebassets\\Jogos\\EncaixaPecas\\typo_square_light_demo-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\appmanifest.json",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\appmanifest.json"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\c2runtime.js",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\c2runtime.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\data.js",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\icon-114.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\icon-114.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\icon-128.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\icon-128.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\icon-16.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\icon-16.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\icon-256.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\icon-256.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\icon-32.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\icon-32.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\botaoamarelo-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\botaoamarelo-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\botaoamarelo-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\botaoamarelo-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\botaoazul-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\botaoazul-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\botaoazul-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\botaoazul-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\botaoverde-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\botaoverde-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\botaoverde-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\botaoverde-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\botaovermelho-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\botaovermelho-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\botaovermelho-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\botaovermelho-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\scrollmanager-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\scrollmanager-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\sprite-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\sprite-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\sprite-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\sprite-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\sprite-sheet2.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\sprite-sheet2.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\sprite-sheet3.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\sprite-sheet3.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\sprite-sheet4.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\sprite-sheet4.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\sprite-sheet5.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\sprite-sheet5.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\sprite11-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\sprite11-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\sprite11-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\sprite11-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\sprite2-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\sprite2-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\sptbackarrow-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\sptbackarrow-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\sptbackarrow-sheet1.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\sptbackarrow-sheet1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\sptbackarrow-sheet2.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\sptbackarrow-sheet2.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\images\\sptbackgroundopcoes-sheet0.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\images\\sptbackgroundopcoes-sheet0.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\index.html",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\jquery-2.1.1.min.js",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\jquery-2.1.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\loading-logo.png",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\loading-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\media\\amarelo.m4a",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\media\\amarelo.m4a"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\media\\amarelo.ogg",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\media\\amarelo.ogg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\media\\azul.m4a",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\media\\azul.m4a"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\media\\azul.ogg",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\media\\azul.ogg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\media\\falhou.m4a",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\media\\falhou.m4a"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\media\\falhou.ogg",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\media\\falhou.ogg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\media\\verde.m4a",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\media\\verde.m4a"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\media\\verde.ogg",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\media\\verde.ogg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\media\\vermelho.m4a",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\media\\vermelho.m4a"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\media\\vermelho.ogg",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\media\\vermelho.ogg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\offline.js",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\offline.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\offlineClient.js",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\offlineClient.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\stylesheet.css",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\stylesheet.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\sw.js",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\sw.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\typo_square_light_demo-demo.html",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\typo_square_light_demo-demo.html"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\typo_square_light_demo-webfont.woff",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\typo_square_light_demo-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\Jogos\\JogoDaMemoria\\typo_square_light_demo-webfont.woff2",
+      "PackagePath": "staticwebassets\\Jogos\\JogoDaMemoria\\typo_square_light_demo-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\css\\AreaMed.css",
+      "PackagePath": "staticwebassets\\css\\AreaMed.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\css\\Contatos.css",
+      "PackagePath": "staticwebassets\\css\\Contatos.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\css\\Games.css",
+      "PackagePath": "staticwebassets\\css\\Games.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\css\\Tables.css",
+      "PackagePath": "staticwebassets\\css\\Tables.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\css\\UserCadastro.css",
+      "PackagePath": "staticwebassets\\css\\UserCadastro.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\css\\descritivo.css",
+      "PackagePath": "staticwebassets\\css\\descritivo.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\QRcode\\code1.png",
+      "PackagePath": "staticwebassets\\images\\QRcode\\code1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\QRcode\\code2.png",
+      "PackagePath": "staticwebassets\\images\\QRcode\\code2.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\QRcode\\code3.png",
+      "PackagePath": "staticwebassets\\images\\QRcode\\code3.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\QRcode\\code4.png",
+      "PackagePath": "staticwebassets\\images\\QRcode\\code4.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\SVG\\Autism.gif",
+      "PackagePath": "staticwebassets\\images\\SVG\\Autism.gif"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\SVG\\Cadastro.gif",
+      "PackagePath": "staticwebassets\\images\\SVG\\Cadastro.gif"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\SVG\\Doctors.gif",
+      "PackagePath": "staticwebassets\\images\\SVG\\Doctors.gif"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\SVG\\Login.gif",
+      "PackagePath": "staticwebassets\\images\\SVG\\Login.gif"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\SVG\\Online_Doctor.gif",
+      "PackagePath": "staticwebassets\\images\\SVG\\Online_Doctor.gif"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\carrousel\\image1.png",
+      "PackagePath": "staticwebassets\\images\\carrousel\\image1.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\carrousel\\image2.png",
+      "PackagePath": "staticwebassets\\images\\carrousel\\image2.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\carrousel\\image3.png",
+      "PackagePath": "staticwebassets\\images\\carrousel\\image3.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\conteudo\\AAPA.jpg",
+      "PackagePath": "staticwebassets\\images\\conteudo\\AAPA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\conteudo\\AMA.jpg",
+      "PackagePath": "staticwebassets\\images\\conteudo\\AMA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\conteudo\\APAE.jpg",
+      "PackagePath": "staticwebassets\\images\\conteudo\\APAE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\conteudo\\AUMA.jpg",
+      "PackagePath": "staticwebassets\\images\\conteudo\\AUMA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\conteudo\\Caracteristicas.png",
+      "PackagePath": "staticwebassets\\images\\conteudo\\Caracteristicas.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\conteudo\\Caça-palavras.png",
+      "PackagePath": "staticwebassets\\images\\conteudo\\Caça-palavras.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\conteudo\\DANS.png",
+      "PackagePath": "staticwebassets\\images\\conteudo\\DANS.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\conteudo\\Encaixa-peça.png",
+      "PackagePath": "staticwebassets\\images\\conteudo\\Encaixa-peça.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\conteudo\\Fantasias.png",
+      "PackagePath": "staticwebassets\\images\\conteudo\\Fantasias.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\conteudo\\Fatecc.png",
+      "PackagePath": "staticwebassets\\images\\conteudo\\Fatecc.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\conteudo\\Interacao.jpg",
+      "PackagePath": "staticwebassets\\images\\conteudo\\Interacao.jpg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\conteudo\\Jogo-da-memoria.png",
+      "PackagePath": "staticwebassets\\images\\conteudo\\Jogo-da-memoria.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\conteudo\\Kanner.jpg",
+      "PackagePath": "staticwebassets\\images\\conteudo\\Kanner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\conteudo\\Mimica.jpg",
+      "PackagePath": "staticwebassets\\images\\conteudo\\Mimica.jpg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\conteudo\\Piratas.jpg",
+      "PackagePath": "staticwebassets\\images\\conteudo\\Piratas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\conteudo\\adolescente-tea.png",
+      "PackagePath": "staticwebassets\\images\\conteudo\\adolescente-tea.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\conteudo\\autismo-2.png",
+      "PackagePath": "staticwebassets\\images\\conteudo\\autismo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\conteudo\\children.jpg",
+      "PackagePath": "staticwebassets\\images\\conteudo\\children.jpg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\conteudo\\medo.jpg",
+      "PackagePath": "staticwebassets\\images\\conteudo\\medo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\icones\\barra.png",
+      "PackagePath": "staticwebassets\\images\\icones\\barra.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\logo\\LogoF.png",
+      "PackagePath": "staticwebassets\\images\\logo\\LogoF.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\logo\\favcon.png",
+      "PackagePath": "staticwebassets\\images\\logo\\favcon.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\profile\\CPS.png",
+      "PackagePath": "staticwebassets\\images\\profile\\CPS.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\profile\\ETEC_DANS.png",
+      "PackagePath": "staticwebassets\\images\\profile\\ETEC_DANS.png"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\profile\\gh.jpeg",
+      "PackagePath": "staticwebassets\\images\\profile\\gh.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\profile\\jh_resized.jpeg",
+      "PackagePath": "staticwebassets\\images\\profile\\jh_resized.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\profile\\mjs_resized.jpeg",
+      "PackagePath": "staticwebassets\\images\\profile\\mjs_resized.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\profile\\po.jpeg",
+      "PackagePath": "staticwebassets\\images\\profile\\po.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\images\\profile\\pp_resized.jpeg",
+      "PackagePath": "staticwebassets\\images\\profile\\pp_resized.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\augus\\Desktop\\documentos\\TCC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Final.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Final.props",
+      "PackagePath": "build\\Final.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Final.props",
+      "PackagePath": "buildMultiTargeting\\Final.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Final.props",
+      "PackagePath": "buildTransitive\\Final.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

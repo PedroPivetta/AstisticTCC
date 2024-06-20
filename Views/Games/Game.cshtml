@@ -1,0 +1,27 @@
+@{
+    ViewData["Title"] = "Jogos";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm coluna">
+            <div class="game-box">
+                <h1>Caça-Palavras</h1>
+                <a asp-controller="Games" asp-action="CacaPalavras"><img src="~/images/conteudo/Caça-palavras.png" alt="Caça palavras"></a>
+            </div>
+        </div>
+
+        <div class="col-sm coluna">
+            <div class="game-box">
+                <h1>Jogo da memória</h1>
+                <a asp-controller="Games" asp-action="JogoDaMemoria"><img src="~/images/conteudo/Jogo-da-memoria.png" alt="Jogo da memória"></a>
+            </div>
+        </div>
+        <div class="col-sm coluna">
+            <div class="game-box">
+                <h1>Encaixa peça</h1>
+                <a asp-controller="Games" asp-action="Peca"><img src="~/images/conteudo/Encaixa-peça.png" alt="Jogo da memória"></a>
+            </div>
+        </div>
+    </div>
+</div>

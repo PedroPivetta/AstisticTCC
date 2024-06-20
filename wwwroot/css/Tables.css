@@ -1,0 +1,97 @@
+.tabela
+{
+    background-color: white;
+    border-radius: 7px;
+    font-family: "lexend", Arial, Helvetica, sans-serif;
+    text-align: justify;
+    margin-top: 1%;
+}
+
+.table-title
+{
+    font-size: x-large;
+    font-weight: normal;
+}
+
+.btn-table-edit
+{
+background-color: rgb(69, 202, 69);
+text-decoration: none;
+color: black;
+padding-right: 2%;
+padding-left: 2%;
+padding-top: 4%;
+padding-bottom: 6%;
+padding-left: 10%;
+padding-right: 10%;
+border-radius: 3px;
+}
+
+.btn-table-delete
+{
+background-color: red;
+text-decoration: none;
+color: black;
+padding-top: 4%;
+padding-bottom: 4%;
+padding-left: 10%;
+padding-right: 10%;
+border-radius: 3px;
+}
+
+.btn-table-user
+{
+    background-color: darkcyan;
+    text-decoration: none;
+    color: black;
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-top: 4%;
+    padding-bottom: 6%;
+    padding-left: 4%;
+    padding-right: 5%;
+    border-radius: 3px; 
+    font-weight: normal; 
+}
+
+.btn-table-user-edit
+{
+background-color: rgb(69, 202, 69);
+border-radius: 3px;
+color: black;
+text-decoration: none;
+padding-top: 2%;
+padding-bottom: 2%;
+padding-left: 8%;
+padding-right: 8%;
+}
+
+.btn-table-user-delete
+{
+    background-color: red;
+text-decoration: none;
+color: black;
+padding-right: 2%;
+padding-left: 2%;
+padding-top: 2%;
+padding-bottom: 2%;
+padding-left: 10%;
+padding-right: 10%;
+border-radius: 3px;
+}
+
+.btn-doctors
+{
+    background-color: darkcyan;
+    text-decoration: none;
+    color: black;
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 9%;
+    padding-right: 9%;
+    border-radius: 3px; 
+    font-weight: normal; 
+    margin-left: 10%;
+}

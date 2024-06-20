@@ -1,0 +1,47 @@
+.box-information {
+    background-color: rgba(241, 241, 241, 0.9);
+    border-radius: 6px;
+    margin-top: 3%;
+    padding-bottom:2%;
+}
+
+
+.details {
+    background-color: white;
+    margin-top: 4%;
+    border-radius: 7px;
+    text-align: justify;
+    padding-left: 6%;
+    padding-bottom: 4%;
+    padding-top: 1%;
+}
+
+.paragrafo {
+    font-size: x-large;
+    margin-top:1.5%;
+}
+
+.margin-edit {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    /*margin-top:3%;*/
+    font-family: "Lexend", Arial, Helvetica, sans-serif;
+}
+
+    .edit-textfield {
+        width: 90%;
+        border: 3px solid lightblue;
+        border-radius: 10px;
+        padding: 12px;
+        color: rgb(22, 107, 107);
+        font-size:medium;
+        box-shadow: 0px 5px 5px  #00000056;
+        outline: none;
+        box-sizing: border-box;
+       /* margin-left: 2%;*/
+    }
+
+
+

@@ -1,0 +1,139 @@
+/* CSS aplicado ao carrousel*/
+.carrousel-images
+    {
+      padding-top: 3%;
+      padding-bottom: 3%;
+      
+    }
+/*CSS aplicado a main*/
+
+body a{
+    text-decoration: none;
+}
+
+
+.home-fundo
+{
+    margin: 20px;
+    border-radius: 8px;
+    border-color: #3178ce;
+    background-color: #2f73c7;
+    border-style: solid;
+    font-family: "lexend", Arial, Helvetica, sans-serif;
+}
+
+.imagens
+{
+    border-radius: 3%;
+    margin: 20px;
+}
+
+main
+{
+    text-align: center;
+}
+
+h4
+{
+    padding-left: 12px;
+}
+
+.Qcode
+{
+    margin-top: 6%;
+}
+
+.doacao{
+    margin-bottom: 0;
+}
+
+.doacao h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.noticiaSec img{
+    transition: transform 0.4s ease-in;
+    width: 100%;
+    height: 100%;
+    opacity: 100%;
+}
+
+.noticiaSec:hover{
+    opacity: 80%;
+}
+
+.noticiaSec:hover img{
+    transform: scale(1.05);
+}
+.noticiaSec h3{
+    position: relative;
+    text-align: left;
+    margin-left: 2vh;
+    opacity: 80;
+    bottom: 100%;
+}
+
+.noticiaSec h2{
+    position: relative;
+    opacity: 80;
+    bottom: 20vh;
+}
+
+.noticiaSec{
+    border-radius: 20px;
+    transition: opacity 0.4s ease-in-out;
+    overflow: hidden;
+    width: 100%;
+    height: 46vh;
+    margin-bottom: 10px;
+}
+
+.noticiaPrim img{
+    transition: transform 0.4s ease-in;
+    width: 100%;
+    height: 100%;
+    opacity: 100%;
+}
+
+.noticiaPrim:hover{
+    opacity: 80%;
+}
+
+.noticiaPrim:hover img{
+    transform: scale(1.05);
+}
+
+.noticiaPrim h3{
+    position: relative;
+    text-align: left;
+    margin-left: 2vh;
+    opacity: 80;
+    bottom: 100%;
+}
+
+.noticiaPrim h2{
+    position: relative;
+    opacity: 80;
+    bottom: 20vh;
+}
+
+.noticiaPrim{
+    border-radius: 20px;
+    overflow: hidden;
+    transition: opacity 0.4s ease-in-out;
+    width: 100%;
+    height: 93vh;    
+    margin-bottom: 10px;
+}
+
+.noticiasSecundarias
+{
+    justify-content: center;
+    align-items: center;
+}
+
+.noticiaPrimaria{
+    justify-content: center;
+    align-items: center;
+}

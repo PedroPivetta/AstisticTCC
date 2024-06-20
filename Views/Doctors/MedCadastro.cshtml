@@ -1,0 +1,321 @@
+@model Final.Models.Doctors
+@{
+    ViewData["Title"] = "Cadastre-se";
+}
+
+<form method="post" asp-action="Cadastrar">
+    <div class="main-login">
+        <div class="left-login">
+            <img src="~/images/SVG/Doctors.gif" class="left-login-image" alt="Austimo Animação">
+        </div>
+        <div class="right-login">
+            <div class="card-log">
+                <h1>Profissional</h1>
+                <div class="d-flex">
+                    <div>
+                        <div class="textfield">
+                            <label for="Graduated">Formação</label>
+                            <select asp-for="Graduated" name="graduated" id="formacao">
+                                <option value="Fonoaudiologo">Fonoaudiologo</option>
+                                <option value="Psicologo">Psicólogo</option>
+                                <option value="Terapeuta">Terapeuta</option>
+                                <option value="Escolha sua Profissão" selected>Escolha sua Profissão</option>
+                            </select>
+                            @if (TempData["GraduatedErro"] != null)
+                            {
+                                <div class="d-flex">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                            class="bi bi-exclamation-diamond-fill alert-color alert-message"
+                                            viewBox="0 0 16 16">
+                                            <path
+                                                d="M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435zM8 4c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995A.905.905 0 0 1 8 4zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z">
+                                        </svg>
+                                    </div>
+
+                                    <div class="alert-color">
+                                        @TempData["GraduatedErro"]
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                    <div>
+                        <div class="textfield" style="margin-left: 4%;">
+                            <label for="Password">Senha</label>
+                            <input asp-for=Password name="password" type="password" maxlength="20">
+                            @if (TempData["SenhaErro"] != null)
+                            {
+                                <div class="d-flex">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                            class="bi bi-exclamation-diamond-fill alert-color alert-message" viewBox="0 0 16 16">
+                                            <path
+                                                d="M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435zM8 4c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995A.905.905 0 0 1 8 4zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z">
+                                        </svg>
+                                    </div>
+                                    <div class="alert-color">
+                                        @TempData["SenhaErro"]
+                                    </div>
+                                </div>
+                            }
+                            else if (TempData["SenhaLength"] != null)
+                            {
+                                <div class="d-flex">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                            class="bi bi-exclamation-diamond-fill alert-color alert-message" viewBox="0 0 16 16">
+                                            <path
+                                                d="M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435zM8 4c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995A.905.905 0 0 1 8 4zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z">
+                                        </svg>
+                                    </div>
+                                    <div class="alert-color">
+                                        @TempData["SenhaLength"]
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+                <div class="d-flex">
+                    <div>
+                        <div class="textfield">
+                            <label for="Name">Nome</label>
+                            <input asp-for="Name" name="name" type="text" maxlength="50">
+                            @if (TempData["NameErro"] != null)
+                            {
+                                <div class="d-flex">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                            class="bi bi-exclamation-diamond-fill alert-color alert-message"
+                                            viewBox="0 0 16 16">
+                                            <path
+                                                d="M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435zM8 4c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995A.905.905 0 0 1 8 4zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z">
+                                        </svg>
+                                    </div>
+
+                                    <div class="alert-color">
+                                        @TempData["NameErro"]
+                                    </div>
+                                </div>
+                            }
+                            else if (TempData["ExistName"] != null)
+                            {
+                                <div class="d-flex">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                            class="bi bi-exclamation-diamond-fill alert-color alert-message"
+                                            viewBox="0 0 16 16">
+                                            <path
+                                                d="M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435zM8 4c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995A.905.905 0 0 1 8 4zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z">
+                                        </svg>
+                                    </div>
+
+                                    <div class="alert-color">
+                                        @TempData["ExistName"]
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="textfield" style="margin-left: 4%;">
+                            <label for="Telephone">Telefone de contato</label>
+                            <input asp-for="Telephone" name="telephone" type="tel" id="Tel" maxlength="15"
+                                onkeyup="handlePhone(event)">
+                            @if (TempData["TelErro"] != null)
+                            {
+                                <div class="d-flex">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                            class="bi bi-exclamation-diamond-fill alert-color alert-message" viewBox="0 0 16 16">
+                                            <path
+                                                d="M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435zM8 4c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995A.905.905 0 0 1 8 4zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z">
+                                        </svg>
+                                    </div>
+                                    <div class="alert-color">
+                                        @TempData["TelErro"]
+                                    </div>
+                                </div>
+                            }
+                            else if (TempData["TelLength"] != null)
+                            {
+                                <div class="d-flex">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                            class="bi bi-exclamation-diamond-fill alert-color alert-message" viewBox="0 0 16 16">
+                                            <path
+                                                d="M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435zM8 4c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995A.905.905 0 0 1 8 4zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z">
+                                        </svg>
+                                    </div>
+                                    <div class="alert-color">
+                                        @TempData["TelLength"]
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+                <div class="d-flex">
+                    <div>
+                        <div class="textfield">
+                            <label for="Email">Email</label>
+                            <input asp-for="Email" name="email" type="email" maxlength="50">
+                            @if (TempData["EmailErro"] != null)
+                            {
+                                <div class="d-flex">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                            class="bi bi-exclamation-diamond-fill alert-color alert-message"
+                                            viewBox="0 0 16 16">
+                                            <path
+                                                d="M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435zM8 4c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995A.905.905 0 0 1 8 4zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z">
+                                        </svg>
+                                    </div>
+                                    <div class="alert-color">
+                                        @TempData["EmailErro"]
+                                    </div>
+                                </div>
+                            }
+                            else if (TempData["ExistEmail"] != null)
+                            {
+                                <div class="d-flex">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                            class="bi bi-exclamation-diamond-fill alert-color alert-message"
+                                            viewBox="0 0 16 16">
+                                            <path
+                                                d="M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435zM8 4c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995A.905.905 0 0 1 8 4zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z">
+                                        </svg>
+                                    </div>
+                                    <div class="alert-color">
+                                        @TempData["ExistEmail"]
+                                    </div>
+                                </div>
+
+                            }
+                        </div>
+                    </div>
+                    <div>
+                        <div class="textfield" style="margin-left: 4%;">
+                            <label for="CEP">Endereço</label>
+                            <input asp-for="Cep" name="cep" type="text" id="cep">
+                            @if (TempData["CepErro"] != null)
+                            {
+                                <div class="d-flex">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                            class="bi bi-exclamation-diamond-fill alert-color alert-message" viewBox="0 0 16 16">
+                                            <path
+                                                d="M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435zM8 4c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995A.905.905 0 0 1 8 4zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z">
+                                        </svg>
+                                    </div>
+                                    <div class="alert-color">
+                                        @TempData["CepErro"]
+                                    </div>
+                                </div>
+                            }
+                            else if (TempData["CepLength"] != null)
+                            {
+                                <div class="d-flex">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                            class="bi bi-exclamation-diamond-fill alert-color alert-message" viewBox="0 0 16 16">
+                                            <path
+                                                d="M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435zM8 4c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995A.905.905 0 0 1 8 4zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z">
+                                        </svg>
+                                    </div>
+                                    <div class="alert-color">
+                                        @TempData["CepLength"]
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                    
+                </div>
+                <div style="margin-right: 50%;">
+                    <div>
+                        <div class="textfield">
+                            <label for="CRM">CRM</label>
+                            <input asp-for="Crm" name="crm" type="text" maxlength="6">
+                            @if (TempData["CrmErro"] != null)
+                            {
+                                <div class="d-flex">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                            class="bi bi-exclamation-diamond-fill alert-color alert-message"
+                                            viewBox="0 0 16 16">
+                                            <path
+                                                d="M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435zM8 4c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995A.905.905 0 0 1 8 4zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z">
+                                        </svg>
+                                    </div>
+                                    <div class="alert-color">
+                                        @TempData["CrmErro"]
+                                    </div>
+                                </div>
+                            }
+                            else if (TempData["CrmLength"] != null)
+                            {
+                                <div class="d-flex">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                            class="bi bi-exclamation-diamond-fill alert-color alert-message"
+                                            viewBox="0 0 16 16">
+                                            <path
+                                                d="M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435zM8 4c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995A.905.905 0 0 1 8 4zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z">
+                                        </svg>
+                                    </div>
+                                    <div class="alert-color">
+                                        @TempData["CrmLength"]
+                                    </div>
+                                </div>
+                            }
+                            else if (TempData["ExistCrm"] != null)
+                            {
+                                <div class="d-flex">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                            class="bi bi-exclamation-diamond-fill alert-color alert-message"
+                                            viewBox="0 0 16 16">
+                                            <path
+                                                d="M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435zM8 4c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995A.905.905 0 0 1 8 4zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z">
+                                        </svg>
+                                    </div>
+                                    <div class="alert-color">
+                                        @TempData["ExistCrm"]
+                                    </div>
+                                </div>
+                            }
+                            <div class="d-flex" style="margin-bottom: 2%; margin-top: 6%;">
+                                <input asp-for="Captcha" name="captcha" type="checkbox" class="check">
+                                <a class="link" asp-controller="Doctors" asp-action="Termos">Aceite nossos termos</a>
+                            </div>
+                            @if (TempData["TermsErro"] != null)
+                                {
+                                    <div class="d-flex">
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                                fill="currentColor"
+                                                class="bi bi-exclamation-diamond-fill alert-color alert-message"
+                                                viewBox="0 0 16 16">
+                                                <path
+                                                    d="M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435zM8 4c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995A.905.905 0 0 1 8 4zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z">
+                                            </svg>
+                                        </div>
+                                        <div class="alert-color">
+                                            @TempData["TermsErro"]
+                                        </div>
+                                    </div>
+                                }
+                            <a class="link" asp-controller="Doctors" asp-action="MedLogin">Já sou cadastrado</a>
+                        </div>
+                    </div>
+                    
+                </div>
+                <input type="submit" value="Cadastrar" class="btn-login">
+            </div>
+        </div>
+    </div>
+</form>
